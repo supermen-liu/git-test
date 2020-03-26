@@ -7,4 +7,9 @@ public class gitfist {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+    public void test(){
+        int c;
+        c=10/2;
+        System.out.println(c);
+    }
 }
